@@ -47,6 +47,6 @@ ax[1][2].set_xlabel('mean motion value')
 ax[1][2].set_ylabel('No. of occurences')
 ax[1][2].set_title('mean motion  values distribution for Glasgow\'s latitude')
 
-plt.savefig('./range_of_orbital_parameters/parameters_combined.png')
+plt.savefig('./range_of_orbital_parameters_plots/parameters_combined.png')
 plt.show()
 # %%
